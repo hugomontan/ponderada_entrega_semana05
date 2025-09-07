@@ -1,0 +1,5 @@
+
+pandas      # para manipulação e análise de dados estruturados
+matplotlib  # para criação de gráficos e visualizações
+seaborn     # para criação de gráficos estatísticos avançados
+numpy       # para operações matemáticas e arrays multidimensionais
